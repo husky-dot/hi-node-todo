@@ -12,5 +12,19 @@
   "dependencies": {
     "commander": "^6.2.1",
     "inquirer": "^7.3.3"
+  },
+  "keywords": ["node", "commander.js", "inquirer.js"],
+  "author": {
+    "name": "前端小智",
+    "email": "449245884@qq.com",
+    "url": "https://github.com/qq449245884"
+  },
+  "description": "基于 node 写一个 todo 命令行工具",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qq449245884/hi-node-todo"
+  },
+  "bugs": {
+    "url": "https://github.com/qq449245884/hi-node-todo/issues"
   }
 }
